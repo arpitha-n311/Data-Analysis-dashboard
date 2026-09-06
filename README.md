@@ -12,44 +12,18 @@ Pivot Tables
 Slicers
 KPIs
 Charts
-Data Cleaning
+Data Cleaning<img width="1852" height="691" alt="DASHBOARD 3" src="https://github.com/user-attachments/assets/adc64218-b0c2-4d28-8f0b-0944eb5e88c6" />
+<img width="1856" height="683" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/ecd81f4f-beea-4b11-9fb7-2a2172f6efa4" />
+<img width="1861" height="682" alt="DASHBOARD 5" src="https://github.com/user-attachments/assets/a704e718-12b9-4dc7-a5c0-bd1c502db7f7" />
+<img width="1857" height="687" alt="DASHBOARD 6" src="https://github.com/user-attachments/assets/8460ee76-eb71-48d1-a072-7959a5989ee5" />
+
+
+
+
 
 Dashboard Screenshots
 Crypto Coin Comparison
-
-
-
-<img width="1878" height="685" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/9a552505-d75c-4678-8691-898cc5b99971" />
-
-
-
-
-
-
-
-
-Top 5 Crypto Liquidity Analysis
-
-
-
-
-
-
-
+Top 5 Crypto Liquidity Analysi
 Price Change Comparison
-
-
-
-
-
-
-
 Historical Price Change Insights
-
-
-
-
-
-
-
 Low Budget Investment Insights
